@@ -127,5 +127,6 @@ insert image
 Preprocessed data
 
 ## Insights obtained:
+**Note: This section of the README includes only my learnings from project implementation.**
 
 1) Fine-tuning BART large model on textual data requires huge amounts of RAM
