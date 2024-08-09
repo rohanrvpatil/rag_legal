@@ -1,14 +1,13 @@
 **Note: "Insights obtained" section of the README includes only my learnings from project implementation.**
 
 ## Table of Contents:
----
+
 - [About](#about)
 - [Implementation](#implementation)
 - [Screenshots](#screenshots)
 - [Insights obtained](#insights-obtained)
 
 ## About:
----
 
 ### **Description of Upwork gig:**
 Needs to hire 4 Freelancers
@@ -99,7 +98,7 @@ Legal Document Analysis and Summarization Tool using RAG
 In this project, I have used a subset of a legal dataset consisting of 7030 judgement, summary pairs in training folder and 100 judgement, summary pairs in testing folder. I have preprocessed the data and used BART-large model of Facebook for Generative part of this project. However, I was not able to complete the project due to insufficient RAM in Google Colab and my local device.
 
 ## Implementation:
----
+
 1) Dataset is downloaded from https://github.com/Law-AI/summarization from the link: https://zenodo.org/records/7152317#.Yz6mJ9JByC0
 IN-Abs data is used. I used a subset of train-data of 10 documents (.txt files) for training and 100 documents (.txt files) for testing
 I took a small subset for training since sufficient RAM wasn't available on my local device and Google Colab as well.
@@ -121,12 +120,12 @@ available on my local device and Google Colab as well.
 
 
 ## Screenshots:
----
+
 
 insert image
 
 Preprocessed data
 
 ## Insights obtained:
----
+
 1) Fine-tuning BART large model on textual data requires huge amounts of RAM
