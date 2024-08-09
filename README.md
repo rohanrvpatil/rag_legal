@@ -121,8 +121,8 @@ available on my local device and Google Colab as well.
 
 ## Screenshots:
 
+D:\Rohan\Freelancing\rag_model\screenshots\preprocessed_data.png
 
-insert image
 
 Preprocessed data
 
