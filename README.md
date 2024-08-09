@@ -1,4 +1,13 @@
-# Description:
+**Note: "Insights obtained" section of the README includes only my learnings from project implementation.**
+
+## Table of Contents:
+- [About](#about)
+- [Screenshots](#screenshots)
+- [Insights obtained](#insights-obtained)
+
+## About:
+
+### **Description of Upwork gig:**
 Needs to hire 4 Freelancers
 Here's your revised job posting with defined sample projects and the extended application deadline:
 
@@ -68,6 +77,7 @@ Join Keensight Analytics LLC and be part of a team that is shaping the future of
 
 
 Upwork link: https://www.upwork.com/jobs/~01b0b2671bf33fd4e9
+
 
 
 # Project description:
