@@ -121,10 +121,10 @@ available on my local device and Google Colab as well.
 
 ## Screenshots:
 
+<mark><strong>Preprocessed data</strong><mark>
 
-insert image
+![Preprocessed data](https://github.com/rohanrvpatil/rag_model/blob/main/screenshots/preprocessed_data.png?raw=true)
 
-Preprocessed data
 
 ## Insights obtained:
 **Note: This section of the README includes only my learnings from project implementation.**
